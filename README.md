@@ -17,10 +17,12 @@ Dashboard created during data visualization internship by Forage
 
 **Working Resources:**
 
-1. ![Major Components of the Grammar of Graphics](image001.png)
+1. Major Components of the Grammar of Graphics
+	![Major Components of the Grammar of Graphics](Task-2_Choosing-the-Right-Visuals/resource/image001.png)
 2. [A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149)
 3. [How to choose the Right Chart for Data Visualization](https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/)
-4. ![Chart Suggestions - A thought starter](image002.png)
+4. Chart Suggestions - A thought starter
+   	![Chart Suggestions - A thought starter](Task-2_Choosing-the-Right-Visuals/resource/image002.png)
 5. [How to Choose the Right Chart for Your Data](https://infogram.com/page/choose-the-right-chart-data-visualization)
 
 **Additional Resources:**
